@@ -1,10 +1,11 @@
 # TinDog
 <b>HTML5, CSS & Bootstrap</b>
 <br>
-
-<img alt="" src="./images/ScreenShoot.png">
 # Live Demo 🎥
 <a href="https://ahsanami.github.io/tingdog.github.io/">Live Demo Link</a>
+
+<p><img alt="" src="./images/ScreenShoot.png"><\p>
+
 # Build with
   <li>
     HTML5
