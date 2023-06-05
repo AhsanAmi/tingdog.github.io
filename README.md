@@ -2,10 +2,7 @@
 <b>HTML5, CSS & Bootstrap</b>
 <br>
 
-<img alt="" src="./Photo/img_1.png">
-
-<a href="https://www.figma.com/proto/0FXMnSYfLyiEJWEpnWtAom/Saas-Landing-Pages-(Community)?node-id=0-7&scaling=min-zoom&page-id=0%3A1">You will be found UI Design Here Design on Figma</a>
-<br>
+<img alt="" src="./images/ScreenShoot.png">
 # Live Demo 🎥
 <a href="https://ahsanami.github.io/tingdog.github.io/">Live Demo Link</a>
 # Build with
